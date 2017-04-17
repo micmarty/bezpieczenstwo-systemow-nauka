@@ -1,0 +1,24 @@
+
+2. Przedstaw i scharakteryzuj poznane kryteria klasyfikacji zagrożeń bezpieczeństwa IT.
+3. Porównaj ataki DoS i DDoS, przedstaw poznane klasyfikacje ataków DDoS
+4. Przedstaw aktualnie stosowane dobre praktyki obrony przed atakami DDoS.
+5. Przedstaw mechanizmy, które można zastosować aby osiągnąć funkcje bezpieczeństwa modelu IAS Octave.
+6. Wymień poznane ataki na zabezpieczenia kryptograficzne, scharakteryzuj trzy wybrane.
+7. Porównaj zabezpieczenia stosowane w protokole SSH z tymi oferowanymi przez PKI.
+8. Wymień pola, jakie typowo zawiera certyfikat X.509. Opisz proces weryfikacji certyfikatu.
+9. Porównaj architektury PKI i PGP ze szczególnym uwzględnieniem struktury relacji zaufania, a także ich zastosowań.
+10. Wymień obszary stosowania złożonych narzędzi bezpieczeństwa. Wymień i krótko scharakteryzuj narzędzia dla podstawowego, zaawansowanego i zoptymalizowanego poziomu bezpieczeństwa wybranego obszaru.
+11. Omów normy ISO/IEC serii 27000."
+
+
+1. Przedstaw (opisz) i porównaj pod względem zastosowań dwie wskazane funkcje bezpieczeństwa zawarte w modelach CIA, Parkerian Hexad, IAS Octave.
+
+CIA - confidentiability, integrity, availability(poufność, integralność, dostępność)
+
+poufność - tylko para podmiotów zna zna przekaz, nieuprawnieni nie mają jawnie dostępu do treści
+integralność - mozna zweryfikowac czy przekaz dotarł tam gdzie miał, czy nie był manipulowany, podmieniony
+                modyfikacja jest mozliwa ale to wykryjemy
+                po ludzku: nie zabobiegamy temu zjawisku zaistniec
+
+
+
